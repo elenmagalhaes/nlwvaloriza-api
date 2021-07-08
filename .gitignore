@@ -41,6 +41,9 @@ build/Release
 node_modules/
 jspm_packages/
 
+# Database file
+src/database/database.sqlite
+
 # TypeScript v1 declaration files
 typings/
 
